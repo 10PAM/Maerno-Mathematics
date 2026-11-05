@@ -9,4 +9,4 @@ Creating a mathematical language.
 ¡ (Inverted exclamation => Fin) = Completed  
 † (Dagger => Impongo) = I impose this to start test phase  
 ‼ (Double exclamation => Prueba) = Test question of work (test phase)  
-‡ (Double dagger) = I will show another test  
+‡ (Double dagger => Imponga otravez) = I will show another test  
