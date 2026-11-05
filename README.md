@@ -20,15 +20,15 @@ $ (Dollar => Impongo) = I impose this claim to start test phase and test my work
 ‡ (Double dagger => Pruba pruebe) = Test works out  
 
 ### Example A (Show that in a 2D square with 4 sides, all sides are equal length and the product of the sides is even):  
-? By definition of a square, all sides must be equal and their product must be even. 
-₩ Even = evenly divisible by 2
-§ Square « Ô. ¢ x, x, x, x » Ô.
-¿ x = 4x
-¿ 4x = 0
-‽ x = -4
-¡ Given that there is a single variable left with a concrete value, all sides are equal length
-† Let x = 4
-¿ 4x = 4(4) = 16
-¿ 16 is even
-‡
-‼ Our work holds.
+? By definition of a square, all sides must be equal and their product must be even.  
+₩ Even = evenly divisible by 2  
+§ Square « Ô. ¢ x, x, x, x » Ô.  
+¿ x = 4x  
+¿ 4x = 0  
+‽ x = -4  
+¡ Given that there is a single variable left with a concrete value, all sides are equal length  
+† Let x = 4  
+¿ 4x = 4(4) = 16  
+¿ 16 is even  
+‡  
+‼ Our work holds.  
