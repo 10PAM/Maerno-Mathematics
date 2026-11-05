@@ -16,6 +16,6 @@ $ (Dollar => Impongo) = I impose this claim to start test phase and test my work
 † (Double exclamation => Prueba) = Test question of work (test phase)  
 ‡ (Double dagger => Otra prueba) = I will show another test  
 
-### Example A (Show that in a 2D square with 4 sides, all sides are equal length)
-? By definition of a square, all sides must be equal.
-§ A square exists noted by Ô. ¢ x, x, x, x » Ô.
+### Example A (Show that in a 2D square with 4 sides, all sides are equal length)  
+? By definition of a square, all sides must be equal.  
+§ A square exists noted by Ô. ¢ x, x, x, x » Ô.  
